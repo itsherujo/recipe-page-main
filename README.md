@@ -16,8 +16,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://recipe-page-main-byjo.netlify.app/)
+- Solution URL: [https://www.frontendmentor.io/solutions/recipe-page-main-EwyniZJFFh](https://www.frontendmentor.io/solutions/recipe-page-main-EwyniZJFFh)
+- Live Site URL: [https://recipe-page-main-byjo.netlify.app/](https://recipe-page-main-byjo.netlify.app/)
 
 ## My process
 
